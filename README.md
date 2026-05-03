@@ -91,11 +91,16 @@ syntetyczną (zakres 0–1).
 ## 💡 Wnioski i rekomendacje
 
 ### Wniosek 1 — Europa Środkowo-Wschodnia dominuje ranking
-Pięć najbardziej atrakcyjnych rynków to kraje regionu CEE lub rynki 
-wschodzące. Łączą dynamiczny wzrost cen z PTI poniżej średniej 
-europejskiej (0,60) — oznacza to że rynki te rosną, ale nie są jeszcze 
-przesycone cenowo. To optymalny moment dla inwestora długoterminowego 
-szukającego wzrostu wartości kapitału.
+Pięć najbardziej atrakcyjnych rynków to kraje Europy Środkowo-Wschodniej 
+lub rynki wschodzące. Ich wysokie pozycje w rankingu wynikają przede 
+wszystkim z dynamicznego wzrostu cen nieruchomości — nie z dostępności 
+cenowej. Price to Income Ratio w tych krajach jest wysokie, co oznacza 
+że mieszkania są coraz droższe względem zarobków lokalnych mieszkańców. 
+Wyjątkiem jest Islandia — jedyny kraj z TOP 5 gdzie wysoki wzrost cen 
+idzie w parze z relatywnie niskim PTI. Dla pozostałych liderów rankingu 
+wysokie PIS Score to sygnał atrakcyjności dla inwestora zagranicznego 
+nastawionego na wzrost kapitału — nie dla lokalnych nabywców, których 
+siła nabywcza nie nadąża za rosnącymi cenami.
 
 ### Wniosek 2 — Jedynym prawdziwym Sweet Spot jest Islandia
 Scatter plot HPI Growth vs PTI ujawnia że spośród wszystkich 34 krajów 
