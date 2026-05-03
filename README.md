@@ -159,3 +159,10 @@ Rynki te wymagają osobnej analizy przed podjęciem decyzji inwestycyjnej
 - Brak uwzględnienia podatków, kosztów transakcyjnych i regulacji prawnych
 - Kraje z niepełnymi danymi (Macedonia, Czarnogóra, Bośnia) mogą być 
   niedoszacowane w rankingu
+
+
+
+## 📬 Kontakt
+
+Projekt stworzony jako część portfolio analitycznego.  
+LinkedIn:
