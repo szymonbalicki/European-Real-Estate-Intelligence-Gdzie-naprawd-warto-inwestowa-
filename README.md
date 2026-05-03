@@ -160,8 +160,25 @@ Rynki te wymagają osobnej analizy przed podjęciem decyzji inwestycyjnej
 - Kraje z niepełnymi danymi (Macedonia, Czarnogóra, Bośnia) mogą być 
   niedoszacowane w rankingu
 
-📸 Dashboard Preview
+## 🖼️ Podgląd dashboardu
 
+### PAGE 1 — Executive Brief
+![Executive Brief](screenshots/EU1.png)
+
+### PAGE 2 — Ranking atrakcyjności inwestycyjnej
+![Ranking](screenshots/EU2.png)
+
+### PAGE 3 — Dekompozycja wskaźnika PIS
+![Dekompozycja](screenshots/EU3.png)
+
+---
+
+## 🔗 Link do dashboardu
+
+👉 [Otwórz interaktywny dashboard w Power BI]([WSTAW LINK])
+
+> Dashboard wymaga dostępu do Power BI Service. 
+> Screenshoty powyżej przedstawiają widok statyczny.
 
 ## 📬 Kontakt
 
