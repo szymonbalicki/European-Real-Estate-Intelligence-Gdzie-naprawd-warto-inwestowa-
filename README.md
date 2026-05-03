@@ -139,14 +139,7 @@ Rynki te wymagają osobnej analizy przed podjęciem decyzji inwestycyjnej
 
 ## 🎯 Rekomendacja inwestycyjna
 
-> Przy średniej europejskiej PIS Score na poziomie 0,60 inwestor długoterminowy powinien koncentrować się na rynkach Europy Środkowo-Wschodniej — szczególnie **Polsce, Litwie i Węgrzech** — gdzie 
-> wzrost wartości nieruchomości wyprzedza poziom nasycenia cenowego. 
-> Islandia pozostaje jedynym rynkiem spełniającym kryteria Sweet Spot dla 
-> obu grup inwestorów — zagranicznych i lokalnych.
-> Rynki Europy Zachodniej oferują stabilność makroekonomiczną ale 
-> ograniczony potencjał wzrostu kapitału. Inwestor akceptujący niższy 
-> zwrot w zamian za bezpieczeństwo może rozważyć Luksemburg (0,68) lub 
-> Norwegię (0,66) jako alternatywę defensywną.
+ Przy średniej europejskiej PIS Score na poziomie 0,60 inwestor długoterminowy powinien koncentrować się na rynkach Europy Środkowo-Wschodniej — szczególnie **Polsce, Litwie i Węgrzech** — gdzie wzrost wartości nieruchomości wyprzedza poziom nasycenia cenowego.  Islandia pozostaje jedynym rynkiem spełniającym kryteria Sweet Spot dla obu grup inwestorów — zagranicznych i lokalnych.Rynki Europy Zachodniej oferują stabilność makroekonomiczną ale ograniczony potencjał wzrostu kapitału. Inwestor akceptujący niższy zwrot w zamian za bezpieczeństwo może rozważyć Luksemburg (0,68) lub Norwegię (0,66) jako alternatywę defensywną.
 
 ---
 
