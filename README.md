@@ -1,5 +1,5 @@
 # European Real Estate Intelligence Gdzie naprawd warto inwestować
-Analiza atrakcyjności inwestycyjnej rynków nieruchomości w krajach UE — gdzie ceny rosną szybciej niż zarobki, gdzie jest przestrzeń wzrostu i gdzie ryzyko jest najwyższe.
+Analiza atrakcyjności inwestycyjnej rynków nieruchomości w krajach Europejskich — gdzie ceny rosną szybciej niż zarobki, gdzie jest przestrzeń wzrostu i gdzie ryzyko jest najwyższe.
 
 ## 📌 O projekcie
 
@@ -160,6 +160,7 @@ Rynki te wymagają osobnej analizy przed podjęciem decyzji inwestycyjnej
 - Kraje z niepełnymi danymi (Macedonia, Czarnogóra, Bośnia) mogą być 
   niedoszacowane w rankingu
 
+📸 Dashboard Preview
 
 
 ## 📬 Kontakt
