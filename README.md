@@ -159,7 +159,7 @@ Rynki te wymagają osobnej analizy przed podjęciem decyzji inwestycyjnej
 
 ## 🔗 Link do dashboardu
 
-👉 [Otwórz interaktywny dashboard w Power BI]([WSTAW LINK])
+👉 [Otwórz interaktywny dashboard w Power BI]([https://app.powerbi.com/view?r=eyJrIjoiZTg5NGZlZDgtMTY1Yy00ODA4LTk2OTgtYTNhZWJlNzVmNjE5IiwidCI6ImU4MGE2MjdmLWVmOTQtNGFhOS04MmQ2LWM3ZWM5Y2ZjYTMyNCIsImMiOjh9])
 
 > Dashboard wymaga dostępu do Power BI Service. 
 > Screenshoty powyżej przedstawiają widok statyczny.
