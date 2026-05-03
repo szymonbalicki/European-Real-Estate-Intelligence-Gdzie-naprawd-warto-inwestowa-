@@ -119,8 +119,8 @@ wyzwanie dla rodzimych nabywców. To ryzyko długoterminowe dla płynności
 rynku które inwestor powinien monitorować.
 
 ### Wniosek 3 — Wysoki wzrost cen bez dostępności to pułapka
-Francja, Finlandia i Szwecja mimo że klasyfikują się jako Stable (żółte) 
-grawitują w kierunku strefy Unikaj — łączą słabą dynamikę wzrostu z 
+Francja, Finlandia i Szwecja mimo że klasyfikują się jako Stabilne (żółte) 
+grawitują w kierunku strefy Ryzyka — łączą słabą dynamikę wzrostu z 
 wysokim PTI. To rynki drogie bez perspektyw wzrostu wartości kapitału. 
 Szwajcaria jako skrajny przypadek tej tendencji osiąga najniższy PIS 
 Score (0,30) mimo najsilniejszego GDP w analizie — ujemna dynamika cen 
