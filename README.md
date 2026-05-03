@@ -165,4 +165,4 @@ Rynki te wymagają osobnej analizy przed podjęciem decyzji inwestycyjnej
 ## 📬 Kontakt
 
 Projekt stworzony jako część portfolio analitycznego.  
-LinkedIn:
+LinkedIn: www.linkedin.com/in/szymon-balicki
