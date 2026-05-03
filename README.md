@@ -150,15 +150,6 @@ Rynki te wymagają osobnej analizy przed podjęciem decyzji inwestycyjnej
 
 ---
 
-## ⚠️ Ograniczenia analizy
-
-- Dane wyłącznie z Eurostatu — brak danych transakcyjnych i lokalnych
-- Analiza statyczna (2015–2024) — nie jest prognozą przyszłych wyników
-- PTI obliczony jako relacja indeksu HPI do zarobków — nie jest 
-  klasycznym wskaźnikiem lat pracy
-- Brak uwzględnienia podatków, kosztów transakcyjnych i regulacji prawnych
-- Kraje z niepełnymi danymi (Macedonia, Czarnogóra, Bośnia) mogą być 
-  niedoszacowane w rankingu
 
 ## 🖼️ Podgląd dashboardu
 
@@ -179,6 +170,17 @@ Rynki te wymagają osobnej analizy przed podjęciem decyzji inwestycyjnej
 
 > Dashboard wymaga dostępu do Power BI Service. 
 > Screenshoty powyżej przedstawiają widok statyczny.
+
+
+## ⚠️ Ograniczenia analizy
+
+- Dane wyłącznie z Eurostatu — brak danych transakcyjnych i lokalnych
+- Analiza statyczna (2015–2024) — nie jest prognozą przyszłych wyników
+- PTI obliczony jako relacja indeksu HPI do zarobków — nie jest 
+  klasycznym wskaźnikiem lat pracy
+- Brak uwzględnienia podatków, kosztów transakcyjnych i regulacji prawnych
+- Kraje z niepełnymi danymi (Macedonia, Czarnogóra, Bośnia) mogą być 
+  niedoszacowane w rankingu
 
 ## 📬 Kontakt
 
