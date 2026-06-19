@@ -1,4 +1,4 @@
-# European Real Estate Intelligence - Gdzie naprawd warto inwestować
+# European Real Estate Intelligence - Gdzie naprawdę warto inwestować
 Analiza atrakcyjności inwestycyjnej rynków nieruchomości w krajach Europejskich — gdzie ceny rosną szybciej niż zarobki, gdzie jest przestrzeń wzrostu i gdzie ryzyko jest najwyższe.
 
 ## 📌 O projekcie
